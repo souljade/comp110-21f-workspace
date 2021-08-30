@@ -9,5 +9,3 @@ print(str (first_num) + " < " + str(second_num) + " is " + str(first_num < secon
 print(str(first_num) + " >= " + str(second_num) + " is " + str(first_num >= second_num))
 print(str(first_num) + " == " + str(second_num) + " is " + str(first_num == second_num))
 print(str(first_num) + " != " + str(second_num) + " is " + str(first_num != second_num))
-
-# commit test
